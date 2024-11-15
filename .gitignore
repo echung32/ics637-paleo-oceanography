@@ -4,3 +4,4 @@ venv
 /paleo_oceanography/test.csv
 /paleo_oceanography/train/
 /paleo_oceanography/train.csv
+/paleo_oceanography/*.pth.tar
