@@ -1,7 +1,7 @@
 venv
 .idea
-/paleo_oceanography/test/
-/paleo_oceanography/test.csv
-/paleo_oceanography/train/
-/paleo_oceanography/train.csv
-/paleo_oceanography/*.pth.tar
+/test/
+/test.csv
+/train/
+/train.csv
+*.pth.tar
